@@ -1,2 +1,3 @@
 docker file i will added
 my new ubuntu 
+run apt-get update -y
